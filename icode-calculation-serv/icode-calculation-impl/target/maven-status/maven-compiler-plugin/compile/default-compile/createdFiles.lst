@@ -1,0 +1,14 @@
+com\icode\wanxh\calculation\service\CouponCalculationService.class
+com\icode\wanxh\calculation\service\impl\CouponCalculationServiceImpl.class
+com\icode\wanxh\calculation\template\CouponTemplateFactory.class
+com\icode\wanxh\calculation\template\impl\MoneyOffTemplate.class
+com\icode\wanxh\calculation\CalculationApplication.class
+com\icode\wanxh\calculation\template\impl\RandomReductionTemplate.class
+com\icode\wanxh\calculation\template\impl\DiscountTemplate.class
+com\icode\wanxh\calculation\template\impl\LonelyNightTemplate.class
+com\icode\wanxh\calculation\template\AbstractRuleTemplate.class
+com\icode\wanxh\calculation\template\impl\DummyTemplate.class
+com\icode\wanxh\calculation\controller\CouponCalculationController.class
+com\icode\wanxh\calculation\template\CouponTemplateFactory$1.class
+com\icode\wanxh\calculation\template\impl\AntiPauTemplate.class
+com\icode\wanxh\calculation\template\RuleTemplate.class

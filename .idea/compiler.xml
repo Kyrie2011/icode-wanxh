@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="icode-template-dao" />
+        <module name="icode-calculation-impl" />
+        <module name="icode-customer-dao" />
+        <module name="icode-calculation-api" />
+        <module name="icode-template-impl" />
+        <module name="icode-customer-impl" />
+        <module name="icode-template-api" />
+        <module name="icode-customer-api" />
+        <module name="icode-calculation-dao" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="icode-calculation-api" options="-parameters" />
+      <module name="icode-calculation-dao" options="-parameters" />
+      <module name="icode-calculation-impl" options="-parameters" />
+      <module name="icode-customer-api" options="-parameters" />
+      <module name="icode-customer-dao" options="-parameters" />
+      <module name="icode-customer-impl" options="-parameters" />
+      <module name="icode-template-api" options="-parameters" />
+      <module name="icode-template-dao" options="-parameters" />
+      <module name="icode-template-impl" options="-parameters" />
+    </option>
+  </component>
+</project>

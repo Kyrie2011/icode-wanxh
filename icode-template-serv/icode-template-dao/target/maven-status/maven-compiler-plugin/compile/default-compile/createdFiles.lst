@@ -1,0 +1,5 @@
+com\icode\wanxh\template\dao\entity\CouponTemplate$CouponTemplateBuilder.class
+com\icode\wanxh\template\dao\converter\CouponTypeConverter.class
+com\icode\wanxh\template\dao\entity\CouponTemplate.class
+com\icode\wanxh\template\dao\converter\RuleConverter.class
+com\icode\wanxh\template\dao\CouponTemplateDao.class

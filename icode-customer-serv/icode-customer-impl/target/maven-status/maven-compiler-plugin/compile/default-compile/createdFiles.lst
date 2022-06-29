@@ -1,0 +1,14 @@
+com\icode\wanxh\customer\service\impl\CouponCustomerServiceImpl.class
+com\icode\wanxh\customer\controller\CouponCustomerController.class
+com\icode\wanxh\customer\constant\Constant.class
+com\icode\wanxh\customer\convert\CouponConverter.class
+com\icode\wanxh\customer\config\Configuration.class
+com\icode\wanxh\customer\feign\OpenfeignSentinelInterceptor.class
+com\icode\wanxh\customer\feign\fallback\TemplateServiceFallbackFactory.class
+com\icode\wanxh\customer\loadbalance\CanaryRuleConfiguration.class
+com\icode\wanxh\customer\CustomerApplication.class
+com\icode\wanxh\customer\feign\CalculationService.class
+com\icode\wanxh\customer\feign\fallback\TemplateServiceFallbackFactory$1.class
+com\icode\wanxh\customer\loadbalance\CanaryRule.class
+com\icode\wanxh\customer\service\CouponCustomerService.class
+com\icode\wanxh\customer\feign\TemplateService.class

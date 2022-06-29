@@ -1,0 +1,6 @@
+com\icode\wanxh\template\controller\CouponTemplateController.class
+com\icode\wanxh\template\TemplateSrvApplication.class
+com\icode\wanxh\template\service\impl\CouponTemplateServiceImpl.class
+com\icode\wanxh\template\converter\CouponTemplateConverter.class
+com\icode\wanxh\template\service\CouponTemplateService.class
+com\icode\wanxh\template\SentinelOriginParser.class

@@ -1,0 +1,4 @@
+com\icode\wanxh\customer\dao\entity\Coupon.class
+com\icode\wanxh\customer\dao\converter\CouponStatusConverter.class
+com\icode\wanxh\customer\dao\entity\Coupon$CouponBuilder.class
+com\icode\wanxh\customer\dao\CouponDao.class

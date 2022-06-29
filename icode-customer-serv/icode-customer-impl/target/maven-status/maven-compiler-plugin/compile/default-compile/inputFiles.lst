@@ -1,0 +1,13 @@
+D:\gitResp\icode-wanxh\icode-customer-serv\icode-customer-impl\src\main\java\com\icode\wanxh\customer\service\CouponCustomerService.java
+D:\gitResp\icode-wanxh\icode-customer-serv\icode-customer-impl\src\main\java\com\icode\wanxh\customer\convert\CouponConverter.java
+D:\gitResp\icode-wanxh\icode-customer-serv\icode-customer-impl\src\main\java\com\icode\wanxh\customer\loadbalance\CanaryRule.java
+D:\gitResp\icode-wanxh\icode-customer-serv\icode-customer-impl\src\main\java\com\icode\wanxh\customer\CustomerApplication.java
+D:\gitResp\icode-wanxh\icode-customer-serv\icode-customer-impl\src\main\java\com\icode\wanxh\customer\feign\OpenfeignSentinelInterceptor.java
+D:\gitResp\icode-wanxh\icode-customer-serv\icode-customer-impl\src\main\java\com\icode\wanxh\customer\feign\TemplateService.java
+D:\gitResp\icode-wanxh\icode-customer-serv\icode-customer-impl\src\main\java\com\icode\wanxh\customer\feign\CalculationService.java
+D:\gitResp\icode-wanxh\icode-customer-serv\icode-customer-impl\src\main\java\com\icode\wanxh\customer\config\Configuration.java
+D:\gitResp\icode-wanxh\icode-customer-serv\icode-customer-impl\src\main\java\com\icode\wanxh\customer\constant\Constant.java
+D:\gitResp\icode-wanxh\icode-customer-serv\icode-customer-impl\src\main\java\com\icode\wanxh\customer\service\impl\CouponCustomerServiceImpl.java
+D:\gitResp\icode-wanxh\icode-customer-serv\icode-customer-impl\src\main\java\com\icode\wanxh\customer\controller\CouponCustomerController.java
+D:\gitResp\icode-wanxh\icode-customer-serv\icode-customer-impl\src\main\java\com\icode\wanxh\customer\feign\fallback\TemplateServiceFallbackFactory.java
+D:\gitResp\icode-wanxh\icode-customer-serv\icode-customer-impl\src\main\java\com\icode\wanxh\customer\loadbalance\CanaryRuleConfiguration.java

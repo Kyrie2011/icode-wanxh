@@ -1,0 +1,3 @@
+com\icode\wanxh\customer\api\beans\RequestCoupon.class
+com\icode\wanxh\customer\api\beans\SearchCoupon.class
+com\icode\wanxh\customer\api\enums\CouponStatus.class

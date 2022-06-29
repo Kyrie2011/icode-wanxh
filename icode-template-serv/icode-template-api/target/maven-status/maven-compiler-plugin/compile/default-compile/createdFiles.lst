@@ -1,0 +1,11 @@
+com\icode\wanxh\template\api\beans\CouponTemplateInfo$CouponTemplateInfoBuilder.class
+com\icode\wanxh\template\api\beans\CouponInfo$CouponInfoBuilder.class
+com\icode\wanxh\template\api\beans\CouponTemplateInfo.class
+com\icode\wanxh\template\api\beans\rules\TemplateRule.class
+com\icode\wanxh\template\api\beans\TemplateSearchParams$TemplateSearchParamsBuilder.class
+com\icode\wanxh\template\api\beans\PagedCouponTemplateInfo$PagedCouponTemplateInfoBuilder.class
+com\icode\wanxh\template\api\beans\rules\Discount.class
+com\icode\wanxh\template\api\beans\TemplateSearchParams.class
+com\icode\wanxh\template\api\beans\PagedCouponTemplateInfo.class
+com\icode\wanxh\template\api\beans\CouponInfo.class
+com\icode\wanxh\template\api\enums\CouponType.class
